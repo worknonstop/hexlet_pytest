@@ -1,1 +1,1 @@
-[![Pylint](https://github.com/worknonstop/hexlet_pytest/actions/workflows/pylint.yaml/badge.svg)](https://github.com/worknonstop/hexlet_pytest/actions/workflows/pylint.yaml)
+[![Python CI](https://github.com/worknonstop/hexlet_pytest/actions/workflows/PythonCI.yaml/badge.svg)](https://github.com/worknonstop/hexlet_pytest/actions/workflows/PythonCI.yaml)
